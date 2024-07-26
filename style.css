@@ -1,0 +1,64 @@
+  /* html,
+  body {
+      height: 100%;
+      margin: 0;
+  } */
+  body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+      flex-direction: column;
+      text-align: center;
+      color:brown;
+      background-image: url('img/noty1.jpg');
+    background-size: cover;
+    background-position: center;
+        background-repeat: no-repeat;
+      font-size: 24px;
+  }
+
+  .quizBlock {
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: lightgrey;
+      text-align: left;
+      border: 5px solid brown;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      margin-top: 10%;
+  }
+
+  #quizForm input[type="checkbox"] {
+
+      margin-left: 20;
+      margin-bottom: 10px;
+
+  }
+
+  .quizBlock label {
+      display: block;
+      margin-bottom: 5px;
+      margin-top: 5px;
+  }
+
+  .quizBlock button {
+      margin-bottom: 5px;
+      margin-top: 5px;
+      background-color: brown;
+      border:2px solid rgb(71, 33, 33);
+      border-radius: 6px;
+      color:yellow;
+      width: 160px;
+      height: 40px;
+      font-size: 18px;
+  }
+
+  .quizBlock h2 {
+      color: brown;
+  }

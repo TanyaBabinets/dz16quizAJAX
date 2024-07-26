@@ -1,0 +1,174 @@
+[
+    {
+        "question": "Какие произведения написал Петр Ильич Чайковский?",
+        "answers": [
+            {
+                "text": "Лебединое озеро",
+               "correct": true
+            },
+            {
+                "text": "Лунная соната",
+                "correct": false
+            },
+            {
+                "text": "Щелкунчик",
+                "correct": true
+            },
+            {
+                "text": "Симфония №9",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Кто является автором оперы 'Аида'?",
+        "answers": [
+            {
+                "text": "Джузеппе Верди",
+                "correct": true
+            },
+            {
+               "text": "Йозеф Гайдн",
+                "correct": false
+            },
+            {
+                "text": "Гектор Берлиоз",
+                "correct": false
+            },
+            {
+                "text": "Петр Ильич Чайковский",
+                "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Кто является автором произведения 'Карнавал животных'?",
+                "answers": [
+            { "text": "Камиль Сен-Санс", "correct": true
+            },
+            { "text": "Йозеф Гайдн", "correct": false
+            },
+            { "text": "Антонин Дворжак", "correct": false
+            },
+            { "text": "Фредерик Шопен", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Кто из этих композиторов известен своими операми?",
+                "answers": [
+            { "text": "Джузеппе Верди", "correct": true
+            },
+            { "text": "Иоганн Себастьян Бах", "correct": false
+            },
+            { "text": "Россини", "correct": true
+            },
+            { "text": "Вагнер", "correct": true
+            }
+        ]
+    },
+    {
+                "question": "Кто из этих композиторов написал балет 'Щелкунчик'?",
+                "answers": [
+            { "text": "Фредерик Шопен", "correct": false
+            },
+            { "text": "Людвиг ван Бетховен", "correct": false
+            },
+            { "text": "Петр Ильич Чайковский", "correct": true
+            },
+            { "text": "Антонин Дворжак", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Какие произведения написал Ференц Лист?",
+                "answers": [
+            { "text": "Венгерские рапсодии", "correct": true
+            },
+            { "text": "Этюды для фортепиано", "correct": true
+            },
+            { "text": "Лунная соната", "correct": false
+            },
+            { "text": "Реквием", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Кто является автором оперы 'Волшебная флейта'?",
+                "answers": [
+            { "text": "Вольфганг Амадей Моцарт", "correct": true
+            },
+            { "text": "Антонин Дворжак", "correct": false
+            },
+            { "text": "Петр Ильич Чайковский", "correct": false
+            },
+            { "text": "Феликс Мендельсон", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Какие произведения написал Людвиг ван Бетховен?",
+                "answers": [
+            { "text": "Симфония №5", "correct": true
+            },
+            { "text": "Лунная соната", "correct": true
+            },
+            { "text": "Симфония №40", "correct": false
+            },
+            { "text": "К Элизе", "correct": true
+            }
+        ]
+    },
+    {
+                "question": "Кто из этих композиторов известен своими фортепианными этюдами?",
+                "answers": [
+            { "text": "Фредерик Шопен", "correct": true
+            },
+            { "text": "Йозеф Гайдн", "correct": false
+            },
+            { "text": "Гектор Берлиоз", "correct": false
+            },
+            { "text": "Рихард Вагнер", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Кто из композиторов написал 'Лунную сонату'?",
+                "answers": [
+            { "text": "Людвиг ван Бетховен", "correct": true
+            },
+            { "text": "Антонин Дворжак", "correct": false
+            },
+            { "text": "Ференц Лист", "correct": false
+            },
+            { "text": "Фредерик Шопен", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "В честь какого композитора назван аэропорт в Варшаве?",
+                "answers": [
+            { "text": "Фредерик Шопен", "correct": true
+            },
+            { "text": "Ференц Лист", "correct": false
+            },
+            { "text": "Йозеф Гайдн", "correct": false
+            },
+            { "text": "Рихард Вагнер", "correct": false
+            }
+        ]
+    },
+    {
+                "question": "Кто из этих музыкантов является известным джазовым трубачом?",
+                "answers": [
+            { "text": "Луи Армстронг", "correct": true
+            },
+            { "text": "Джон Колтрейн", "correct": false
+            },
+            { "text": "Майлс Дэвис", "correct": true
+            },
+            { "text": "Бенни Гудман", "correct": false
+            }
+        ]
+    }
+]
